@@ -255,7 +255,7 @@ plt.show()
 
 **Salida (figura):**
 
-![Gráficos EDA del Titanic](../assets/graficas_titanic.png)
+![Gráficos EDA del Titanic](../../assets/graficas_titanic.png)
 
 ## Evidencias y reflexión
 

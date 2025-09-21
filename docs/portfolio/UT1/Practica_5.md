@@ -239,7 +239,7 @@ COMPARACIÓN DE ESTABILIDAD:
   plt.boxplot([scores_kfold, scores_stratified], labels=['KFold', 'StratifiedKFold'])
 ```
 **Salida(2/2):**
-![Distribución de Scores - Validación Cruzada.png](../assets/ta5_1.png)
+![Distribución de Scores - Validación Cruzada.png](../../assets/ta5_1.png)
 
 # 🏆 Parte 3: Comparación de Modelos - ¡El Torneo!
 
@@ -378,7 +378,7 @@ ANÁLISIS DE ESTABILIDAD:
 ```
 **Salida(2/2):**
 
-![Distribución de Accuracy por Modelo](../assets/ta5_2.png)
+![Distribución de Accuracy por Modelo](../../assets/ta5_2.png)
 
 # 📚 BONUS: ¿Qué significan las métricas de validación?
 
@@ -737,7 +737,7 @@ Previous qualification (grade): 0.0343
 
 **Salida(2/5):**
 
-![Distribución de Accuracy por Modelo](../assets/ta5_3.png)
+![Distribución de Accuracy por Modelo](../../assets/ta5_3.png)
 
 **Salida(3/5):**
 
@@ -777,7 +777,7 @@ Mostrando 3 árboles de 100 totales
 
 **Salida(4/5):**
 
-![Distribución de Accuracy por Modelo](../assets/ta5_4.png)
+![Distribución de Accuracy por Modelo](../../assets/ta5_4.png)
 
 **Salida(5/5):**
 

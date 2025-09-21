@@ -255,7 +255,7 @@ plt.show()
 ```
 **Salida:**
 
-![Distribuciones de Variables Clave](../assets/ta6_1.png)
+![Distribuciones de Variables Clave](../../assets/ta6_1.png)
 
 ## Paso 2.9: Visualizaciones - Relaciones
 
@@ -295,7 +295,7 @@ plt.show()
 ```
 **Salida:**
 
-![Relaciones Entre Variables](../assets/ta6_2.png)
+![Relaciones Entre Variables](../../assets/ta6_2.png)
 
 ## Paso 2.10: Análisis Comparativo por Género
 
@@ -340,7 +340,7 @@ INSIGHTS POR GÉNERO:
 
 **Salida(2/3):**
 
-![Matriz de Correlación - Mall Customers](../assets/ta6_3.png)
+![Matriz de Correlación - Mall Customers](../../assets/ta6_3.png)
 
 **Salida(3/3):**
 
@@ -786,7 +786,7 @@ print("Observa cómo cada scaler ajusta las escalas de forma diferente")
 
 **Salida(1/2):**
 
-![Comparación de Scalers](../assets/ta6_4.png)
+![Comparación de Scalers](../../assets/ta6_4.png)
 
 **Salida(2/2):**
 
@@ -826,7 +826,7 @@ print("¿Notas cómo cambia la forma de la distribución?")
 
 **Salida(1/2):**
 
-![Anual Income: Original vs Scalers](../assets/ta6_5.png)
+![Anual Income: Original vs Scalers](../../assets/ta6_5.png)
 
 **Salida(2/2):**
 
@@ -1103,7 +1103,7 @@ PCA: Reduciendo dimensiones sin perder la esencia
 
 **Salida(2/5):**
 
-![Varianza por componente - Varianza Acumulada](../assets/ta6_6.png)
+![Varianza por componente - Varianza Acumulada](../../assets/ta6_6.png)
 
 **Salida(3/5):**
 
@@ -1136,7 +1136,7 @@ PCA aplicado:
 
 **Salida(4/5):**
 
-![Varianza por componente - Varianza Acumulada](../assets/ta6_7.png)
+![Varianza por componente - Varianza Acumulada](../../assets/ta6_7.png)
 
 **Salida(5/5):**
 
@@ -1408,7 +1408,7 @@ plt.show()
 
 **Salida:**
 
-![Comparación de Métodos de Feature Selection](../assets/ta6_8.png)
+![Comparación de Métodos de Feature Selection](../../assets/ta6_8.png)
 
 ## Paso 8: Análisis y Decisión Final
 
@@ -1664,7 +1664,7 @@ K-MEANS CLUSTERING: Descubriendo segmentos de clientes
 
 **Salida(2/3):**
 
-![Elbow Method - Sihouette Analysis](../assets/ta6_9.png)
+![Elbow Method - Sihouette Analysis](../../assets/ta6_9.png)
 
 **Salida(3/3):**
 
@@ -1879,7 +1879,7 @@ PERFILES DETALLADOS POR CLUSTER:
 
 **Salida(2/2):**
 
-![Clusters Descubiertos - Perfil Promedio por Cluster - Distribucipon de Clientes por Cluster](../assets/ta6_10.png)
+![Clusters Descubiertos - Perfil Promedio por Cluster - Distribucipon de Clientes por Cluster](../../assets/ta6_10.png)
 
 ## 🔍 Paso 4.2: Análisis Silhouette Detallado
 
