@@ -18,3 +18,4 @@ date: 2025-01-01
     - [Práctica 6.md](UT1/Practica_6.md)
 
 - UT2
+    - [Práctica 7.md](UT1/Practica_7.md)
