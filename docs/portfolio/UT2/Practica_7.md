@@ -1379,3 +1379,9 @@ plotear_confusion_matrices()
     Porque oculta el loop de entrenamiento; ofrece pocos “knobs” (sin control fino sobre scheduler, callbacks, multi-GPU, etc.). A cambio, es simple y rápido.
 
 ```
+
+## Referencias
+
+* Link al proyecto en Colab: [Practica 7.ipynb](https://colab.research.google.com/drive/1vsQ5XTjABFoKEMN4g5UuQEk6Uyu01yXE)
+
+---

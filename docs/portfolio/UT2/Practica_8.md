@@ -1119,3 +1119,9 @@ Según todos estos intentos, se llego a que por val_accuracy, el mejor intento e
 
 Según todos estos intentos, se llego a que por gap más chico, es decir, el que generaliza mejor, fue el sexto intento, con unos valores de val ≈ 0.5874, train ≈ 0.6872, gap ≈ 0.10. Sacrifica un poquito de val_acc frente al cuarto, pero es más robusto, es decir, tiene menos sobreajuste.
 ```
+
+## Referencias
+
+* Link al proyecto en Colab: [Practica 8.ipynb](https://colab.research.google.com/drive/1GAUOr2Y13pCWITi_fTkvBdV2UiJm6mop#scrollTo=-3P62FLzXq0s)
+
+---
