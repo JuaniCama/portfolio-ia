@@ -1,4 +1,4 @@
-# Detección & Tracking de Frutas con YOLOv8 — UT3-11
+# Detección & Tracking de Frutas con YOLOv8 —(UT3‑11)
 
 ## 1) Resumen de práctica
 - **Objetivo**: mostrar que el modelo COCO no distingue productos específicos y que el **fine-tuning** en frutas mejora mAP/Precision/Recall.

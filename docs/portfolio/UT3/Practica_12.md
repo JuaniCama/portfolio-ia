@@ -1,4 +1,4 @@
-# Segmentación de Inundaciones con SAM — Pretrained vs Fine-tuned (Práctica 12)
+# Segmentación de Inundaciones con SAM — Pretrained vs Fine-tuned (UT3‑12)
 
 ## 1) Resumen de práctica
 - **Problema:** segmentar áreas inundadas (agua) en imágenes RGB.
