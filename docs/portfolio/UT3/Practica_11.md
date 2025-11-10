@@ -62,11 +62,12 @@
 - YOLOv8n fine-tuned → detecciones por frame → asociación/IDs con Norfair.
 
 **Video resultado (preview, descarga mas abajo)**  
-[![Ver video de tracking](../../assets/ta11_9.png)](../../assets/ta11_9.mp4)
-<a href="/portfolio-ia//docs/assets/ta11_9.mp4" download="ta11_9.mp4"
-   style="display:inline-block;background:#0ea5e9;color:#fff;padding:10px 14px;border-radius:10px;text-decoration:none">
-  ⬇️ Descargar video (MP4)
-</a>
+<video controls width="720" playsinline poster="../../assets/ta11_1.png">
+  <source src="/portfolio-ia/assets/ta11_9.mp4" type="video/mp4">
+</video>
+<br>
+<a href="/portfolio-ia/assets/ta11_9.mp4" download="tracking_frutas_yolov8.mp4">⬇️ Descargar video (MP4)</a>
+
 
 **Dashboard de tracking (4 vistas)**
 ![Timeline / detecciones / duraciones / tracks por clase](../../assets/ta11_8.png)
