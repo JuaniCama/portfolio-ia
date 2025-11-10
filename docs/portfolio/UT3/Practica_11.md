@@ -61,9 +61,12 @@
 ## 7) Tracking con Norfair ( + Kalman opcional )
 - YOLOv8n fine-tuned → detecciones por frame → asociación/IDs con Norfair.
 
-**Video resultado**  
+**Video resultado (preview, descarga mas abajo)**  
 [![Ver video de tracking](../../assets/ta11_9.png)](../../assets/ta11_9.mp4)
-
+<a href="/portfolio-ia//docs/assets/ta11_9.mp4" download="ta11_9.mp4"
+   style="display:inline-block;background:#0ea5e9;color:#fff;padding:10px 14px;border-radius:10px;text-decoration:none">
+  ⬇️ Descargar video (MP4)
+</a>
 
 **Dashboard de tracking (4 vistas)**
 ![Timeline / detecciones / duraciones / tracks por clase](../../assets/ta11_8.png)
@@ -80,3 +83,8 @@
 * Link al proyecto en Colab: [Practica 11.ipynb](https://colab.research.google.com/drive/1uUyXvEWkvDFfmtIjxCYdFIvs_R18e1fV#scrollTo=HlfAwzEJCehn)
 
 ---
+
+
+**NOTA Post Subida:**
+
+Revisando todo me di cuenta de que el video no se podía reproducir asi que cambie la manera de visualizarlo.
