@@ -32,8 +32,8 @@ date: 2025-01-01
     - [Práctica 12.md](UT3/Practica_12.md) Segmentación de Inundaciones con SAM — Pretrained vs Fine-tuned
 
 - UT4
-    - [Práctica 13.md](UT3/Practica_13.md) Analisis de Sentimiento Financiero con TF-IDF y FinBERT
+    - [Práctica 13.md](UT4/Practica_13.md) Analisis de Sentimiento Financiero con TF-IDF y FinBERT
 
-    - [Práctica 14.md](UT3/Practica_15.md) Prompting y Parametros de LLM con LangChain
+    - [Práctica 14.md](UT4/Practica_14.md) Prompting y Parametros de LLM con LangChain
 
-    - [Práctica 15.md](UT3/Practica_15.md) Agentes con LangGraph y Tools
+    - [Práctica 15.md](UT4/Practica_15.md) Agentes con LangGraph y Tools
