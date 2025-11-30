@@ -1,6 +1,4 @@
-# 🧠 Páctica 8: Backpropagation y Optimizadores
-
-⚡ Clase 6: Backpropagation y Optimizadores
+# Backpropagation y Optimizadores (UT2‑8)
 
 ## Contexto
 El objetivo es mejorar progresivamente un MLP (Keras/TensorFlow) para un problema de clasificación, usando experimentación controlada y TensorBoard. Partimos de un baseline (2 capas de 64, Adam 1e-3, batch 32) y aplicamos cambios uno por vez sobre arquitectura, regularización y optimización. Cada experimento se registra como un run distinto y se compara por val_accuracy (principal) y val_loss (secundaria), controlando el gap train_acc – val_acc para evitar sobreajuste.

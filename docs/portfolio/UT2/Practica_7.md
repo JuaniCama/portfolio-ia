@@ -1,6 +1,4 @@
-# 🧠 Páctica 7: De Perceptrón a Redes Neuronales
-
-UT2: Deep Learning Foundations | Teoría + Práctica Progresiva
+# De Perceptrón a Redes Neuronales  (UT2‑7)
 
 ## 🎯 Objetivos de Aprendizaje
 
