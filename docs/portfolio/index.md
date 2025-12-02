@@ -39,6 +39,6 @@ date: 2025-01-01
     - [Práctica 15.md](UT4/Practica_15.md) Agentes con LangGraph y Tools
 
 - UT5
-    - [Práctica 16.md](UT5/Practica_16.md) Recorrido por los labs prácticos de Google Cloud
+    - [Práctica 16.md](UT5/practica_16.md) Recorrido por los labs prácticos de Google Cloud
 
-    - [Práctica 17.md](UT5/Practica_17.md) Vertex AI Pipelines: Qwik Start
+    - [Práctica 17.md](UT5/practica_17.md) Vertex AI Pipelines: Qwik Start
